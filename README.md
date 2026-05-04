@@ -279,4 +279,4 @@ scipy>=1.12
 
 ## 📄 License
 
-MIT License — free to use, adapt, and build upon with attribution.
+MIT [LICENSE](LICENSE) — free to use, adapt, and build upon with attribution.
